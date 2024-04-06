@@ -1,4 +1,4 @@
-local config = require 'config.client'
+local config = require 'config.'
 local sharedConfig = require 'config.shared'
 local apartmentZones = {}
 local houseObj = {}
